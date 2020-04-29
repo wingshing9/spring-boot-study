@@ -1,7 +1,7 @@
 # Docker image for springboot file run
 # VERSION 0.0.1
 # Author: eangulee
-# 基础镜像使用java
+# 基础镜像使用java:8
 FROM java:8
 # 作者
 MAINTAINER wingshing9 <wingshing9@163.com>
